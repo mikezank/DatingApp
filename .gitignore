@@ -488,4 +488,4 @@ API/dating.db-shm
 API/dating.db-wal
 API/dating.db-shm
 
-ssl
+ssl/
